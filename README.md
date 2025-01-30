@@ -1,2 +1,3 @@
 # demo
-first git respos
+first git respository
+author mak
